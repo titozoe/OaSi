@@ -11,7 +11,7 @@ public class Profile extends Entity {
 	
 	private String name;
 
-	private String Surname;
+	private String surname;
 	private Date birthDate;
 	
 	private List<String> offeredServices;
@@ -25,11 +25,11 @@ public class Profile extends Entity {
 	}
 
 	public String getSurname() {
-		return Surname;
+		return surname;
 	}
 
 	public void setSurname(String surname) {
-		Surname = surname;
+		this.surname = surname;
 	}
 
 	public Date getBirthDate() {

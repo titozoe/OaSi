@@ -7,7 +7,7 @@ html,body {
 body {
 	background-color: transparent;
 	font-family: sans-serif;
-	background-color: #ffeeaa;
+	background-color: #ffefaf;
 }
 
 /* 
@@ -64,4 +64,3 @@ footer,header,nav {
 .col-1 {
 	width: 100%;
 }
-
